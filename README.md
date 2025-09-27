@@ -65,5 +65,5 @@
 | Feature Engineering | Feature Extraction, Selection, Transformation |
 
 ---
-- [LinkedIn](https://www.linkedin.com/in/)  
+- [LinkedIn](https://www.linkedin.com/in/shahd-omar-2b1391307)  
 - [Email](shahdomar444466@gmail.com)
