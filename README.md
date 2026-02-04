@@ -29,14 +29,27 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nlp" height="55" />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=sql" height="55" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="55" />
+</div>
+
+---
+
+## 💻 Programming Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="45" title="Python" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" title="C++" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" title="Java" />
 </div>
 
 ---
 
 ## 📌 What I Work On
 - Supervised & Unsupervised Learning
-- Feature Engineering & Data Preprocessing
+- **Data Preprocessing & Feature Engineering**
 - Model Training, Evaluation & Tuning
 - **Deep Learning (CNNs, RNNs, Transformers)**
 - **Computer Vision & NLP Projects**
@@ -71,6 +84,7 @@
 ---
 
 ⭐ Feel free to explore my repositories and follow my ML journey!
+
 
 - [LinkedIn](https://www.linkedin.com/in/shahd-omar-2b1391307)  
 - [Email](shahdomar444466@gmail.com)
