@@ -1,69 +1,76 @@
-# Hi, I'm shahd 👋
-
-🎓 Computer Science graduate passionate about *Artificial Intelligence* and *Deep Learning*.  
-💡 Strong interest in *Computer Vision, **Neural Networks, and **Transformers*.  
-🚀 Always learning, problem-solving, and building projects that bring AI into real life.  
+<h1 align="center">Hey 👋 I'm Shahd Omar</h1>
+<h3 align="center">Machine Learning Engineer 🤖📊</h3>
 
 ---
 
-## 🛠️ Skills
-
-### 🔹 Programming Languages
-| Language | Badge |
-|----------|-------|
-| Python   | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| C++      | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white) |
-| Java     | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) |
+## 👩‍💻 About Me
+- Machine Learning Engineer passionate about **AI & Data-driven solutions**
+- Strong interest in **Deep Learning, Computer Vision & NLP**
+- Love turning data into real-world impact
+- Always learning, experimenting, and building
 
 ---
 
-### 🔹 Problem Solving
-| Area | Tools |
-|------|-------|
-| Problem Solving | C++ |
+## 🧠 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=numpy" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nlp" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" />
+</div>
 
 ---
 
-### 🔹 Databases
-| Database | Badge |
-|----------|-------|
-| SQL      | ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
+## 📌 What I Work On
+- Supervised & Unsupervised Learning
+- Feature Engineering & Data Preprocessing
+- Model Training, Evaluation & Tuning
+- **Deep Learning (CNNs, RNNs, Transformers)**
+- **Computer Vision & NLP Projects**
+- Real-world ML applications
 
 ---
 
-### 🔹 AI & Machine Learning
-| Tool / Library | Badge |
-|----------------|-------|
-| TensorFlow     | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
-| PyTorch        | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
-| Scikit-learn   | ![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| Pandas         | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
-| NumPy          | ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ShahdOmar1123&theme=dracula&border_radius=5" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=ShahdOmar1123&theme=dracula&row=1&column=6" height="150" />
+</div>
 
 ---
 
-### 🔹 Deep Learning
-| Concept | Examples |
-|---------|----------|
-| Neural Networks | CNNs, RNNs, Transformers |
+## 🌱 Currently Learning
+- Advanced Machine Learning
+- Deep Learning Architectures
+- Model Deployment basics
 
 ---
 
-### 🔹 Computer Vision
-| Area | Examples |
-|------|----------|
-| Image Processing | Filtering, Augmentation |
-| Recognition | Object Detection, Classification |
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/ShahdOmar1123/ShahdOmar1123/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/ShahdOmar1123/ShahdOmar1123/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+       src="https://raw.githubusercontent.com/ShahdOmar1123/ShahdOmar1123/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
-### 🔹 Data Science Workflow
-| Stage | Examples |
-|-------|----------|
-| Data Preprocessing | Cleaning, Normalization, Encoding |
-| Image Preprocessing | Resizing, Augmentation, Normalization |
-| Feature Engineering | Feature Extraction, Selection, Transformation |
+⭐ Feel free to explore my repositories and follow my ML journey!
 
----
 - [LinkedIn](https://www.linkedin.com/in/shahd-omar-2b1391307)  
 - [Email](shahdomar444466@gmail.com)
