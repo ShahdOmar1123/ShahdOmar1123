@@ -4,56 +4,47 @@
 ---
 
 ## 👩‍💻 About Me
-- Machine Learning Engineer passionate about **AI & Data-driven solutions**
-- Strong interest in **Deep Learning, Computer Vision & NLP**
-- Love turning data into real-world impact
-- Always learning, experimenting, and building
+Machine Learning Engineer passionate about **AI, Deep Learning, Computer Vision & NLP**.  
+Love turning data into real-world impact. Always learning, experimenting, and building.
 
 ---
 
-## 🧠 Tech Stack
+## 💻 Programming & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nlp" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=sql" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="55" />
-</div>
-
----
-
-## 💻 Programming Languages
-<div align="center">
+  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=py" height="45" title="Python" />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=cpp" height="45" title="C++" />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="45" title="Java" />
+  <img src="https://skillicons.dev/icons?i=sql" height="45" title="SQL" />
+  <img width="15" />
+  <!-- ML & Data -->
+  <img src="https://skillicons.dev/icons?i=sklearn" height="45" title="Scikit-Learn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45" title="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45" title="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="45" title="Pandas" />
+  <img src="https://skillicons.dev/icons?i=numpy" height="45" title="NumPy" />
+  <img width="15" />
+  <!-- Other Tools -->
+  <img src="https://skillicons.dev/icons?i=opencv" height="45" title="OpenCV" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" title="Git" />
 </div>
 
 ---
 
 ## 📌 What I Work On
-- Supervised & Unsupervised Learning
-- **Data Preprocessing & Feature Engineering**
-- Model Training, Evaluation & Tuning
-- **Deep Learning (CNNs, RNNs, Transformers)**
-- **Computer Vision & NLP Projects**
-- Real-world ML applications
+- **Data Preprocessing & Feature Engineering**  
+- Supervised & Unsupervised Learning  
+- Model Training, Evaluation & Tuning  
+- **Deep Learning (CNNs, RNNs, Transformers)**  
+- **Computer Vision & NLP Projects**  
+- Real-world ML applications  
+
+---
+
+## 🌱 Currently Learning
+- Advanced Machine Learning  
+- Deep Learning Architectures  
+- Model Deployment basics  
 
 ---
 
@@ -62,13 +53,6 @@
   <img src="https://streak-stats.demolab.com?user=ShahdOmar1123&theme=dracula&border_radius=5" height="150" />
   <img src="https://github-profile-trophy.vercel.app?username=ShahdOmar1123&theme=dracula&row=1&column=6" height="150" />
 </div>
-
----
-
-## 🌱 Currently Learning
-- Advanced Machine Learning
-- Deep Learning Architectures
-- Model Deployment basics
 
 ---
 
